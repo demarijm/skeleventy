@@ -2,8 +2,8 @@
 layout: home
 meta_title: Home
 meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+title: 👋🏾 Hi, I'm Demari
+sub_heading: I'm a full stack developer with SMB, startup,  and enterprise experience
 eleventyNavigation:
   key: Home
   order: 1
@@ -22,10 +22,17 @@ eleventyNavigation:
 - Responsive navigation
 - XML Sitemap
 
-## Getting started
+## How to work with me
 
 ### Prerequisites
-Node `v10+`
+1. An idea on what you want you accomplished 
+2. 30 minutes for call
+
+That's it!
+
+I'll be able to tell from the call whether I can provide value to your project. 
+
+If I can't, no hard feelings. I have recommmendations!
 
 ### Installation
 
