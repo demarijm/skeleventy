@@ -2,7 +2,7 @@
 layout: home
 meta_title: Home
 meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: 👋🏾 Hi, I'm Demari
+title: 👋🏾 Hi, I'm Demari 
 sub_heading: I'm a full stack developer with SMB, startup,  and enterprise experience
 eleventyNavigation:
   key: Home
