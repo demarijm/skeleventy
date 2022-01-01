@@ -1,16 +1,27 @@
 ---
 layout: home
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: 👋🏾 Hi, I'm Demari 
-sub_heading: I'm a full stack developer with SMB, startup,  and enterprise experience
+meta_description: I build websites for NFT projects that need high level of design customization
+title: 👋🏾 Hi, I'm Demari Miller
+sub_heading: I build websites for NFT projects
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-## Features
+## First time here?
+If this is your first time here, the best way to get oriented is to subscribe to my NFT Branding Bootcamp. It's a free six email course to teach you how to make more money with your NFT branding. You can jump in here:  [NFT Branding Bootcamp](https://demari.eth)
 
+Building an NFT Marketplace? [Start here](https://demari.eth)
+
+
+## Interests
+- Building websites 
+- Reading (check out my [book shelf](/books))
+- Smart Contract projects 
+- Psychology/Philosophy
+- Personality stuff 
+##
 - Clean, understated design - a good starting point for a portfolio or blog
 - A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
 - [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
