@@ -35,7 +35,7 @@
 }
 
 .bg-white {
-  background: #DFCAA6;
+  background: #FFFEFC;
 }
 
 .color-primary {
@@ -973,7 +973,7 @@ a:not([class]):hover {
   min-height: 100vh;
   flex-direction: column;
   background-attachment: fixed;
-  background-color: #E0C9A6;
+  background-color: #FFFEFC;
 }
 
 @media (min-width : 40em) {
